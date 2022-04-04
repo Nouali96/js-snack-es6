@@ -19,7 +19,6 @@ const biciclette = [{
         peso: 16
     },
 ];
-const pesoBici = []
 
 let biciPiùLeggera = biciclette[0];
 
